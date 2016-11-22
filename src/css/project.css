@@ -1,0 +1,13 @@
+.projectCard {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 768px) {
+    .projectCard {
+        width: 300px;
+    }
+}

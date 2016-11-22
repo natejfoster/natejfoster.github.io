@@ -1,0 +1,17 @@
+.About {
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  color: white;
+  padding-bottom: 30px;
+}
+
+.About h4 {
+  font-family:Copperplate, "Copperplate Gothic Light", fantasy;
+}
+
+.img-profile {
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+}
