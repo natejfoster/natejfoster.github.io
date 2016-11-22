@@ -2,7 +2,7 @@
 
 - This is my first portfolio! Its's super cool to think that in just about two months, I have developed the skills to create something that is functional and reflects my own design ideas. Anyone curious about what I have been working on in Info343 could view my projects on my website.
 
-- My portfolio is live [here](url).
+- My portfolio is live [here](http://students.washington.edu/njfoster/Info343/natejfoster.github.io/#/).
 
 - I was sick when we went over using the React-Router in class, so I relied heavily on m16 exercise 1 to help me understand how to complete the project. Other than that, the usual Google searches, visits to w3schools, and peruse of the various documentations played their part.
 
